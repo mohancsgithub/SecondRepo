@@ -12,6 +12,6 @@ namespace WebApplication1.Models
         public string FirstName { get; set; }        
         public string DOB { get; set; }    
         public string Location { get; set; }
-        Public string FatherName {get; set;}
+        public string FatherName {get; set;}
     }
 }
