@@ -10,5 +10,8 @@ namespace WebApplication1.Models
     public class DateDetails
     {
        public string FatherName { get; set; }
+
+       //new line added under testing branch
+       public string MotherName { get; set; }
     }
 }
